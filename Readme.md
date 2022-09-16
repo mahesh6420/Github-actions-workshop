@@ -1,9 +1,9 @@
 # Github Actions
 
-ISC 629: Computing Ecosystems
-School of Computing
-University of South Alabama
-September 20, 2022
+### ISC 629: Computing Ecosystems
+### School of Computing
+### University of South Alabama
+### September 20, 2022
 
 Conducted by Harith Warnakulasooriya
 
