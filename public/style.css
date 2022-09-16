@@ -1,0 +1,31 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #178bf6;
+    font-size: 58px;
+    text-align: center;
+}
+
+.image-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 44px;
+    margin-bottom: 15px;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    color: blue;
+    margin: 0;
+}
+
+h7 {
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    color: blue;
+    margin: 0;
+    margin-top: 10px;
+}
