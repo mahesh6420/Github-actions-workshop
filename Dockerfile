@@ -6,6 +6,6 @@ WORKDIR /app
 
 COPY ./public .
 
-CMD ["http-server", "."]
+CMD ["http-server", ".", "-p 80"]
 
 EXPOSE 8080
